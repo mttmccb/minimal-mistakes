@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-GB"
+locale                   : "en"
 title                    : "Rabid Canary"
 title_separator          : "-"
 name                     : "Matt McCabe"
 description              : "A blog about Aurelia, Dapper, SQL query tuning and whatever else I find"
-url                      : "https://mttmccb.github.io""
+url                      : "https://mttmccb.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mttmccb/mttmccb.github.io""
+repository               : "mttmccb/mttmccb.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Matt McCabe"
-  avatar           : "profile.jpg"
+  avatar           : "/images/profile.jpg"
   bio              : "A Full-Stack Web Developer currently enjoying Aurelia and tuning SQL queries."
   location         : "Cardiff, UK"
   email            :
@@ -90,7 +90,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : mttmccb
+  github           : "mttmccb"
   google_plus      :
   keybase          :
   instagram        :

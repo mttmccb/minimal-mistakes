@@ -44,10 +44,17 @@
 .masthead__menu-item {
   display: block;
   list-style-type: none;
+  font-size: $type-size-5;
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+    padding-right: 1em;
+    font-size: $type-size-1;
+    font-family: $site-title-font;
+    & a {
+      text-shadow: 2px 2px $canaryyellow;
+      text-transform: none;
+      font-weight: normal;  
+    }
   }
 }
