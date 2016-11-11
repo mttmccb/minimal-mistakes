@@ -1,4 +1,15 @@
+# Readme
+
+Just a few things to make life easier.
+
+## Install
+
 bundle install
-bunldle exec jekyll serve
+
+## Serve
+
+bundle exec jekyll serve
+
+or
 
 bundle exec jekyll serve --config _config.yml,_config.dev.yml
