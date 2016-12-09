@@ -1,6 +1,6 @@
 ---
 title: "Luc Besson and Valerian"
-excerpt: "Looking forward to Luc Besson new movie plus looking back at what else he's done"
+excerpt: "Looking forward to Luc Besson's new movie plus looking back at what else he's done"
 tags: [film, sci-fi]
 header:
   image: /images/valerian-trailer.jpg
