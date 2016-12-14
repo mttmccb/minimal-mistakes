@@ -1,11 +1,9 @@
 ---
-title: "[Crosspost] Jumping into C# 6"
+title: "Jumping into C# 6"
 modified:
 excerpt: "A few of my favourite parts of C# 6."
 tags: [csharp6]
 ---
-
-> Originally published on [mttmccb.net](http://mttmccb.net/blog/2016/jumping-into-c-6)
 
 I watched a few videos on [Pluralsight][0], I found [Exporing C# 6 with Jon Skeet][1] a very good way to get an insights into the new features. On top of that [Play by Play: C# Q&A with Scott Allen and Jon Skeet][2] was very good to provide some more complex examples.
 
