@@ -13,3 +13,7 @@ bundle exec jekyll serve
 or
 
 bundle exec jekyll serve --config _config.yml,_config.dev.yml
+
+## Serve with drafts
+
+bundle exec jekyll serve --config _config.yml,_config.dev.yml --drafts

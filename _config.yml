@@ -11,9 +11,9 @@ title                    : "Rabid Canary"
 title_separator          : "-"
 name                     : "Matt McCabe"
 description              : "A blog about Aurelia, Dapper, SQL query tuning and whatever else I find"
-url                      : "https://mttmccb.github.io"
+url                      : "https://mttmccb.net"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "mttmccb/mttmccb.github.io"
+repository               : # "mttmccb/mttmccb.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
