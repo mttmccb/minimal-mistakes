@@ -1,8 +1,7 @@
 ---
 title: 'Aurelia: First Impressions'
-categories:
-- Short
 tags:
+- Short
 - Web Development
 - JavaScript
 ---

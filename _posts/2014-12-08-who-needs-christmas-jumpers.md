@@ -1,8 +1,7 @@
 ---
 title: Who needs Christmas jumpers!
-categories:
-- Short
 tags:
+- Short
 - Christmas
 - Clothing
 ---

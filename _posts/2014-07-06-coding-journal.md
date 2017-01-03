@@ -1,8 +1,7 @@
 ---
 title: Coding journal
-categories:
-- Long
 tags:
+- Long
 - coding
 - software development
 ---

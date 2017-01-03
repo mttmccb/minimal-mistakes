@@ -1,6 +1,7 @@
 ---
 title: Serial view
-categories:
+tags:
 - Short
-tags: []
----Presentation of data is important, especially when it can put someone in jail.
+---
+
+Presentation of data is important, especially when it can put someone in jail.

@@ -1,8 +1,7 @@
 ---
 title: Edge Cases of Tomorrow
-categories:
-- Long
 tags:
+- Long
 - TDD
 - Refactoring
 - coding

@@ -1,8 +1,7 @@
 ---
 title: 'Leftism: A stubborn lefty?'
-categories:
+tags:
 - Short
-tags: []
 ---
 
 I'm left handed, I forget what proportion of the world are (and it varies around the world) but when it's 'discovered' I always get a surprised reaction. I'm not sure what people expect from left-handed people. 

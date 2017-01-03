@@ -1,8 +1,7 @@
 ---
 title: Electron (formerly Atom Shell)
-categories:
-- Short
 tags:
+- Short
 - Coding
 - software development
 ---

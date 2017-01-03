@@ -1,8 +1,7 @@
 ---
 title: ReSharper is pretty sharp
-categories:
-- Long
 tags:
+- Long
 - Visual Studio
 - csharp
 - JavaScript

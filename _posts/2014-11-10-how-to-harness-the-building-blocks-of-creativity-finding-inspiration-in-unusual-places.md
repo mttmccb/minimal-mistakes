@@ -1,8 +1,7 @@
 ---
 title: How to harness the building blocks of creativity
-categories:
-- Long
 tags:
+- Long
 - Creativity
 - Limitations
 ---

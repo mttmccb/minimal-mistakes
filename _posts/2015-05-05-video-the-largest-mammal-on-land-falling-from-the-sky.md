@@ -1,8 +1,7 @@
 ---
 title: 'Video: The Largest Mammal on Land Falling from the Sky'
-categories:
-- Short
 tags:
+- Short
 - Video
 ---
 

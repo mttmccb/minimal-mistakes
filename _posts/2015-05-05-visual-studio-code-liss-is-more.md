@@ -1,8 +1,7 @@
 ---
 title: Visual Studio Code - Liss is More
-categories:
-- Short
 tags:
+- Short
 - Visual Studio
 - Code
 ---

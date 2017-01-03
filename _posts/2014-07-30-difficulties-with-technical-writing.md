@@ -1,8 +1,7 @@
 ---
 title: Difficulties with technical writing
-categories:
-- Long
 tags:
+- Long
 - meta
 - coding
 ---

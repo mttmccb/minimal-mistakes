@@ -1,8 +1,7 @@
 ---
 title: Airbnb JavaScript Style Guide
-categories:
-- Short
 tags:
+- Short
 - JavaScript
 ---
 

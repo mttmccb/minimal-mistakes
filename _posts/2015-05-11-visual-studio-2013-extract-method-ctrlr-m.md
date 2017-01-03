@@ -1,8 +1,7 @@
 ---
 title: 'Visual Studio Shortcut: Extract Method (Ctrl+R, M)'
-categories:
-- Short
 tags:
+- Short
 - Shortcut
 - Visual Studio
 ---

@@ -1,8 +1,7 @@
 ---
 title: Make spaghetti even more fun...
-categories:
-- Short
 tags:
+- Short
 - Funny
 ---
 

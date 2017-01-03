@@ -1,8 +1,7 @@
 ---
 title: Who Wrote This Crap?
-categories:
-- Short
 tags:
+- Short
 - Visual Studio
 ---
 

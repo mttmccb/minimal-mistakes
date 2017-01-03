@@ -1,8 +1,7 @@
 ---
 title: Stored Procedure Execution with Parameters, Variables and Literals
-categories:
-- Short
 tags:
+- Short
 - SQL Server
 ---
 

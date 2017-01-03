@@ -1,8 +1,7 @@
 ---
 title: What is Test-Driven Development (TDD)?
-categories:
-- Long
 tags:
+- Long
 - csharp
 - tdd
 - tutorial

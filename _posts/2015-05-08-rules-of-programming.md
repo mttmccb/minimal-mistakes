@@ -1,8 +1,7 @@
 ---
 title: Rules of Programming
-categories:
-- Short
 tags:
+- Short
 - software development
 - Coding
 ---

@@ -1,8 +1,7 @@
 ---
 title: Coding Like a Girl
-categories:
-- Short
 tags:
+- Short
 - codin
 ---
 

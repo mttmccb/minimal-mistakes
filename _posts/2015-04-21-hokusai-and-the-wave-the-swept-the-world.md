@@ -1,8 +1,7 @@
 ---
 title: Hokusai and the wave the swept the world
-categories:
-- Short
 tags:
+- Short
 - Art
 ---
 

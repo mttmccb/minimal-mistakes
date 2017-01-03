@@ -1,8 +1,7 @@
 ---
 title: The Zen of Python
-categories:
-- Short
 tags:
+- Short
 - Coding
 - Philosophy
 ---

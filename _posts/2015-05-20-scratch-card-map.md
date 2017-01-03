@@ -1,8 +1,7 @@
 ---
 title: Scratch card map
-categories:
-- Short
 tags:
+- Short
 - gifts
 ---
 

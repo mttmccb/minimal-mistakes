@@ -1,8 +1,7 @@
 ---
 title: 11 Rules All Programmers Should Live By
-categories:
-- Short
 tags:
+- Short
 - Coding
 - Philosophy
 ---

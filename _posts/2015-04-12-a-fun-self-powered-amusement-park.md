@@ -1,8 +1,7 @@
 ---
 title: A Fun Self-Powered Amusement Park
-categories:
-- Short
 tags:
+- Short
 - Video
 ---
 

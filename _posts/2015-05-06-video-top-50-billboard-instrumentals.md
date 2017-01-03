@@ -1,8 +1,7 @@
 ---
 title: 'Video: Top 50 Billboard Instrumentals'
-categories:
-- Short
 tags:
+- Short
 - Video
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Song Reader by Beck
-categories:
-- Short
 tags:
+- Short
 - Music
 ---
 

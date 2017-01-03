@@ -1,8 +1,7 @@
 ---
 title: Frozen hair (no, not that one)
-categories:
-- Short
 tags:
+- Short
 - Hair
 ---
 

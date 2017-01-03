@@ -1,8 +1,7 @@
 ---
 title: Scott Hanselman on Visual Studio Code
-categories:
-- Short
 tags:
+- Short
 - Visual Studio
 ---
 

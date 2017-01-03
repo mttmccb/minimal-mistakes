@@ -1,8 +1,7 @@
 ---
 title: Post-Apocalytic Bronies?
-categories:
+tags:
 - Short
-tags: []
 ---
 
 Just what Mad Max needs, 

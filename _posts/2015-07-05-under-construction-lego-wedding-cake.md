@@ -1,8 +1,7 @@
 ---
 title: Under construction lego wedding cake
-categories:
-- Short
 tags:
+- Short
 - Food
 - Cake
 ---

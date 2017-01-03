@@ -1,8 +1,7 @@
 ---
 title: Code Quality
-categories:
-- Short
 tags:
+- Short
 - Coding
 ---
 

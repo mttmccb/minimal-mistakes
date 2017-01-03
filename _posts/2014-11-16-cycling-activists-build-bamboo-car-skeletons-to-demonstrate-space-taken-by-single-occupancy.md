@@ -1,9 +1,8 @@
 ---
 title: Cycling Activists Build Bamboo Car Skeletons to Demonstrate Space Taken by
   Single Occupancy
-categories:
-- Short
 tags:
+- Short
 - Activism
 - Cycling
 ---

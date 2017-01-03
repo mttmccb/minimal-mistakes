@@ -1,8 +1,7 @@
 ---
 title: 'Ray Nicholus: You Don''t Need jQuery!'
-categories:
-- Short
 tags:
+- Short
 - JavaScript
 - Web Development
 ---

@@ -1,10 +1,11 @@
 ---
 title: Human JavaScript
-categories:
-- Short
 tags:
+- Short
 - JavaScript
----Although I don't think 
+---
+
+Although I don't think 
 [Ampersand.js](http://read.humanjavascript.com) is for me right now I do think 
 [@HenrikJoreteg](https://twitter.com/HenrikJoreteg) is an excellent communicator both visually with his 
 [video tutorial](http://learn.humanjavascript.com) and although I've only skimmed a few chapters I think the online book 

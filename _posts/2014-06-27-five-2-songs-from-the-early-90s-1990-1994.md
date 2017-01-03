@@ -1,8 +1,7 @@
 ---
 title: Five (+ 2) Songs From the Early 90s (1990 ~ 1994)
-categories:
-- Long
 tags:
+- Long
 - music
 - playlists
 - memories

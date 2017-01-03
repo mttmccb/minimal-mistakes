@@ -1,8 +1,7 @@
 ---
 title: Eurosong Generator
-categories:
-- Short
 tags:
+- Short
 - music
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Reusable silicon gear ties
-categories:
-- Short
 tags:
+- Short
 - Declutter
 - Storage
 ---

@@ -1,8 +1,7 @@
 ---
 title: Unit Testing MVC Controllers with Fluent MVC Testing
-categories:
-- Long
 tags:
+- Long
 - csharp
 - asp.net mvc
 - coding

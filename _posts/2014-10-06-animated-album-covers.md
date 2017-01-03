@@ -1,8 +1,7 @@
 ---
 title: Animated Album Covers
-categories:
-- Short
 tags:
+- Short
 - gifs
 ---
 

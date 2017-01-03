@@ -1,8 +1,7 @@
 ---
 title: 'Visual Studio Shortcut: Format Document (Ctrl+K, Ctrl+D)'
-categories:
-- Short
 tags:
+- Short
 - Visual Studio
 - Shortcut
 ---

@@ -1,8 +1,7 @@
 ---
 title: Cardiff and Utrecht
-categories:
-- Short
 tags:
+- Short
 - Cycling
 ---
 

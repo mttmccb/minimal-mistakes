@@ -1,8 +1,7 @@
 ---
 title: Wanksy splatters penises on potholes to get them noticed
-categories:
+tags:
 - Short
-tags: []
 ---
 
 I'm not sure I'd like to see everyone follow in 

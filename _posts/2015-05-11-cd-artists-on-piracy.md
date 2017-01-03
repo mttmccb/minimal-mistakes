@@ -1,8 +1,7 @@
 ---
 title: CD Artists on Piracy
-categories:
-- Short
 tags:
+- Short
 - Music
 ---
 
