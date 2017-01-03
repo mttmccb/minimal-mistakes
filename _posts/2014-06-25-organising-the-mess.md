@@ -9,7 +9,7 @@ tags:
 ---
 
 Projects, tasks, tags, notes, multiple levels of task and projects, separate files for areas of work or large projects. It can quickly become a mess when you want to have visibility of what you need to do without being overwhelmed. 
-As I mentioned in the [last post](http://mttmccb.net/blog/2014/simple-task-management) I've decided to start with 3 taskpaper files:
+As I mentioned in the [last post](/simple-task-management) I've decided to start with 3 taskpaper files:
 
 * Inbox
 * Work 

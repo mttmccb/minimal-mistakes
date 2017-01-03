@@ -9,9 +9,9 @@ tags:
 ---
 
 I've tinkered with the way I keep track of my tasks and projects quite a lot over the years, the 
-[last time](http://mttmccb.net/blog/2013/my-tool-overview) I wrote about it over a year ago I was chasing too much complexity. I had forgotten that a system should be simple and should get out of the way of getting things done stuff completed.
+[last time](/my-tool-overview) I wrote about it over a year ago I was chasing too much complexity. I had forgotten that a system should be simple and should get out of the way of getting things done stuff completed.
 
-Although I did make an attempt to go [back to paper](http://mttmccb.net/blog/2013/capture-process-organise-review-do-but-how) I've realised it's just not for me. It became ephemeral where I needed stability. It has it's place but not at the centre, I can't keep it tidy enough and it became a distraction. 
+Although I did make an attempt to go [back to paper](/capture-process-organise-review-do-but-how) I've realised it's just not for me. It became ephemeral where I needed stability. It has it's place but not at the centre, I can't keep it tidy enough and it became a distraction. 
 
 ## New Hardware
  
