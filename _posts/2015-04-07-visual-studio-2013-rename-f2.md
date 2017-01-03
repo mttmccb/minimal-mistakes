@@ -1,8 +1,7 @@
 ---
 title: 'Visual Studio Shortcut: Rename Refactoring (Ctrl+R, R)'
-categories:
-- Short
 tags:
+- Short
 - Visual Studio
 - Shortcut
 - Productivity

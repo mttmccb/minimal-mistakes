@@ -1,8 +1,7 @@
 ---
 title: Bad Habits Revival
-categories:
-- Short
 tags:
+- Short
 - SQL Server
 ---
 

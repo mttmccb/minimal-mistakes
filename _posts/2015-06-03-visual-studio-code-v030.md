@@ -1,8 +1,7 @@
 ---
 title: Visual Studio Code v0.3.0
-categories:
-- Long
 tags:
+- Long
 - Visual Studio
 - Web Development
 ---

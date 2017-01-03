@@ -1,8 +1,7 @@
 ---
 title: Introducing Queens of the Stone Age
-categories:
-- Long
 tags:
+- Long
 - music
 - playlists
 - apple

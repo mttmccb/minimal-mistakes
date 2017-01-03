@@ -1,8 +1,7 @@
 ---
 title: Clippa multi-function hairclip
-categories:
-- Short
 tags:
+- Short
 - tools
 ---
 

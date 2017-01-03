@@ -1,8 +1,7 @@
 ---
 title: Should sport and politics ever mix?
-categories:
-- Short
 tags:
+- Short
 - politics
 - sport
 ---

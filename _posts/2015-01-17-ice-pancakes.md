@@ -1,7 +1,7 @@
 ---
 title: Ice pancakes!
-categories:
-- Short
 tags:
+- Short
 - pancakes
----These are awesome, mother nature creates the weirdest things...
+---
+These are awesome, mother nature creates the weirdest things...

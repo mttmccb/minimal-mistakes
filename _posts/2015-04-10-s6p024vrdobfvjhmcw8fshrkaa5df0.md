@@ -1,8 +1,7 @@
 ---
 title: 'Game of Chairs: Sesame Street "Game of Thrones parody'
-categories:
-- Short
 tags:
+- Short
 - Muppets
 - Video
 ---

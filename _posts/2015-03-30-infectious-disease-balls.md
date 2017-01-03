@@ -1,8 +1,7 @@
 ---
 title: Infectious Disease Balls
-categories:
-- Short
 tags:
+- Short
 - gifts
 ---
 

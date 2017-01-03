@@ -1,8 +1,7 @@
 ---
 title: 'Babies on the Brink: Parent''s worst fears confirmed'
-categories:
-- Short
 tags:
+- Short
 - Babies
 - Science
 - Video

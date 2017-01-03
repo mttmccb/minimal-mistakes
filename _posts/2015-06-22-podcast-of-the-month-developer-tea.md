@@ -1,8 +1,7 @@
 ---
 title: 'Podcast of the month: Developer Tea'
-categories:
-- Long
 tags:
+- Long
 - Podcasts
 - Reviews
 ---

@@ -1,8 +1,7 @@
 ---
 title: 'Backup Part 1: Why Backup?'
-categories:
-- Long
 tags:
+- Long
 - Backup
 - Storage
 ---

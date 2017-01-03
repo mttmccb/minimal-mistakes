@@ -1,8 +1,7 @@
 ---
 title: SQL Server Table-Valued Parameters for Stored Procedures
-categories:
-- Long
 tags:
+- Long
 - TVP
 - SQL Server
 - Stored Procedure

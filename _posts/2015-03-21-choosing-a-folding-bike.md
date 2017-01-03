@@ -1,8 +1,7 @@
 ---
 title: Choosing a folding bike
-categories:
-- Long
 tags:
+- Long
 - Cycling
 - folding bike
 ---

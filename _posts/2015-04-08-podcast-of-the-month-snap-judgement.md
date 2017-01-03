@@ -1,9 +1,7 @@
 ---
 title: 'Podcast of the month: Snap Judgement'
-categories:
-- Long
-- Short
 tags:
+- Short
 - Podcasts
 - Reviews
 ---

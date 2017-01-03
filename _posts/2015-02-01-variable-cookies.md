@@ -1,8 +1,7 @@
 ---
 title: Variable cookies
-categories:
-- Short
 tags:
+- Short
 - Cookies
 - Baking
 ---

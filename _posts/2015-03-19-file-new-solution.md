@@ -1,8 +1,7 @@
 ---
 title: File > New Solution
-categories:
-- Long
 tags:
+- Long
 - Visual Studio
 - Yeoman
 - templates

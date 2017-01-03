@@ -1,8 +1,7 @@
 ---
 title: Dappling with Dapper .Net Part 1 - Why?
-categories:
-- Long
 tags:
+- Long
 - Dapper
 - DAL
 ---

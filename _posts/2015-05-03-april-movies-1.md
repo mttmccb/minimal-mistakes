@@ -1,8 +1,7 @@
 ---
 title: April Movies (1)
-categories:
-- Long
 tags:
+- Long
 - Movies
 - Reviews
 ---

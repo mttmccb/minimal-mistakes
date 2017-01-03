@@ -1,8 +1,7 @@
 ---
 title: 'Avengers: Age of Ultron, 90s edition'
-categories:
-- Short
 tags:
+- Short
 - Video
 - Trailer
 ---

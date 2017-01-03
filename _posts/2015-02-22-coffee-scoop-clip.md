@@ -1,8 +1,7 @@
 ---
 title: Coffee scoop clip
-categories:
-- Short
 tags:
+- Short
 - Coffee
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Visual Studio Code v0.7.0
-categories:
-- Long
 tags:
+- Long
 - Visual Studio
 - Code
 ---

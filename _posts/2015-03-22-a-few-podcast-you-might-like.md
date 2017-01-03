@@ -1,8 +1,7 @@
 ---
 title: A few podcasts you might like
-categories:
-- Long
 tags:
+- Long
 - Podcasts
 - Reviews
 ---

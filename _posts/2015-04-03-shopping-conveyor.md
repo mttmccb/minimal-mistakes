@@ -1,8 +1,7 @@
 ---
 title: Not crossing the grocery lines
-categories:
-- Long
 tags:
+- Long
 - Supermarket
 ---
 

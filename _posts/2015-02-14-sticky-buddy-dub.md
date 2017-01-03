@@ -1,8 +1,7 @@
 ---
 title: Sticky Buddy Dub
-categories:
-- Short
 tags:
+- Short
 - Video
 ---
 
