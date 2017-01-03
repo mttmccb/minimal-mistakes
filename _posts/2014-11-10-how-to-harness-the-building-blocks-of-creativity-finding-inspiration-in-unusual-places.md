@@ -10,7 +10,7 @@ tags:
 This article was first published in Issue 9 of 
 [Alpha Efficiency Magazine](http://alphaefficiency.com/magazine/), it's a great magazine to help you will productivity tools, techniques and principles. The current issue leads with an interview with David Sparks and a number of great article to inspire you. You can get a free 
 [2 week trial](https://itunes.apple.com/us/app/alpha-efficiency-magazine/id739143901?mt=8) so give it a test run. 
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_5460dafbe4b0e0996435aa84_1415633660877_DominoTower.png_) 
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_5460dafbe4b0e0996435aa84_1415633660877_DominoTower.png) 
 ##Finding Inspiration in Unusual Places
  
 Where does creativity come from? Intuitively you might suppose that it requires freedom of thought and expression; that true inspiration requires a “blue sky” environment in which anything is possible. In my experience I have found the opposite to be true: I have found my most creative solutions when faced with 

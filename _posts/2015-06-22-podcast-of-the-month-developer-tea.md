@@ -7,7 +7,7 @@ tags:
 - Reviews
 ---
 
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_558860dbe4b08c8c8a707516_1435001052796__img.jpg_) 
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_558860dbe4b08c8c8a707516_1435001052796__img.jpg) 
 I haven't been listening to 
 [Developer Tea](https://developertea.com) long but I'm finding it really good. Of course it has a bit of software (mostly web) developer slant but there are definitely episodes that would help anyone. 
 The episodes are relatively short (usually less than 15 minutes), the premise is that it's a podcast you can listen to in your tea break. It still makes me laugh as there's a big emphasis on coffee culture at the moment. However, 

@@ -30,7 +30,7 @@ What do I mean it doesn't exist? Well it can be best summed up by the
 [Schofield's Second Law of Computing](http://www.theguardian.com/technology/2008/feb/14/email.yahoo), which states 'data doesn't really exist unless you have at least two copies of it'.
 
 You'll need those 2 copies because at least one will fail and you better hope the other one still works. 
-![Source](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_54da6cf9e4b0cecc76588176_1423600891925__img.jpg_) Source 
+![Source](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_54da6cf9e4b0cecc76588176_1423600891925__img.jpg) Source 
 ##But I've never had a drive fail
 
 

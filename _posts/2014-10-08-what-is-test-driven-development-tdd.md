@@ -14,7 +14,7 @@ There have been a lot TDD activity in the the last 6 months and the
 [wrote the book](http://www.amazon.co.uk/Test-Driven-Development-Addison-Wesley-Signature/dp/0321146530) in 2003.
 
 TDD is a relatively new software development process that emphasises quick feedback, it's summarised by the red/green/refactor mantra. This is simply: 
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_54353a59e4b03c75a8c10f8c_1412774490693__img.png_) 
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_54353a59e4b03c75a8c10f8c_1412774490693__img.png) 
 *Write a failing test (red)
  
 *Do some coding to make the test pass (green)

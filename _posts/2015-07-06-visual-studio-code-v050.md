@@ -18,7 +18,7 @@ Let's run through the updates...
 #ES6 support and jsconfig.json
  
 Finally, I hope make things a little easier while I transition to TypeScript. It also explains my entire module being covered in red squigglies. I need a jsconfig.json file apparently. So far I've been pretty much ignoring all the errors and warnings as most of them weren't problems. This is new and may also mean nothing as I can't see any duplicates. 
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_559ad97fe4b003deab7c8b59_1436211586705__img.png_) 
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_559ad97fe4b003deab7c8b59_1436211586705__img.png) 
 ##Hiding derived resources
  
 Definitely one for TypeScript and one I'll need to review later. Although it could apply to LESS too I keep all my derived resources in my 

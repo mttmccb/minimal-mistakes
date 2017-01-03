@@ -102,6 +102,6 @@ Take a look at
 [clarify](http://www.clarify-it.com/), it really easy to use.
 
 I'm sure this could be improved, for example I'd like to do a version that adds the transparent mask using ImageMagick, maybe next time. Here are the unmasked icons side by side, see there is a difference, slightly... :D 
-![Omnifocus-for-iPad](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_52001dcbe4b05c9447cc6313_1375739348283_Omnifocus-for-iPad.png_) Omnifocus-for-iPad 
-![Omnifocus-for-iPhone](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_52001dcbe4b05c9447cc6310_1375739351114_Omnifocus-for-iPhone.png_) Omnifocus-for-iPhone 
+![Omnifocus-for-iPad](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_52001dcbe4b05c9447cc6313_1375739348283_Omnifocus-for-iPad.png) Omnifocus-for-iPad 
+![Omnifocus-for-iPhone](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_52001dcbe4b05c9447cc6310_1375739351114_Omnifocus-for-iPhone.png) Omnifocus-for-iPhone 
 1. I need some nice icons and got a little side tracked...

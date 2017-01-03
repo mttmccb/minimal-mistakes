@@ -19,7 +19,7 @@ I did mention this to a few friends and they were surprised I used it so often. 
 ##Formatting Options
  
 The best way to make the most of it is to understand the formatting options. That's where it can get a little fiddly because each language has different formatting options. In the case of CSS shown below it's pretty limited but it's very easy to change. 
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_55453636e4b0b5d7d7c0347c_1430599224306__img.png_) 
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_55453636e4b0b5d7d7c0347c_1430599224306__img.png) 
 While you're tweaking your formatting options it's worth checking your code into source control until you get it looking how you'd like. 
 ##Let go
  

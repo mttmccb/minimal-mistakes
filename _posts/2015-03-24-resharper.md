@@ -28,7 +28,7 @@ hard way.
 
 ##Inspection gadget
  
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_5511c3dde4b07319c3faa004_1427227615176__img.png_) 
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_5511c3dde4b07319c3faa004_1427227615176__img.png) 
 As well as detecting optimisations, it's so handy to have solution errors being monitored constantly, it's so easy to make a mistake and break something and now it's so much easier to get direct to the problem areas. 
 Continuous Code Quality Analysis is the term they use and if you like using a common coding standard such as CamelCase then inspections will help you enforce it without too much trouble. For the most part you can run a macro to apply them solution-wide, although I'd prefer to do it on code I'm working on at the time so I can see if there's anything I'd rather not use.
 

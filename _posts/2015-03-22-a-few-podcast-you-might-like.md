@@ -7,7 +7,7 @@ tags:
 - Reviews
 ---
 
-![Source: Flickr](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_550f45dae4b0c3aa90e02351_1427064287146__img.jpg_) Source: Flickr 
+![Source: Flickr](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_550f45dae4b0c3aa90e02351_1427064287146__img.jpg) Source: Flickr 
 I thought keeping a 
 [running list](http://mttmccb.net/blog/2013/podcasts-playlist?rq=podcast) of all the podcasts I listened to would be a good way to help you find the 
 good stuff. It isn't and frankly it's boring to maintain which is why I didn't. Instead I'll post a handful of the current favourites. 

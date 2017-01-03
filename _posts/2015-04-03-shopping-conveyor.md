@@ -20,7 +20,7 @@ If you do your own grocery shopping I'm sure you've been waiting in a queue at l
 With that in mind there's a key piece of equipment that has a greater focus than in any of the larger supermarkets. Which is the 
 **Checkout divider**
 . 
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_551eeae6e4b0adb698662744_1428089583169__img.jpg_) 
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_551eeae6e4b0adb698662744_1428089583169__img.jpg) 
 Some days you'll find yourself being in a long queue that goes beyond the end of the conveyor belt and before you know it you're up next. But, there are checkout dividers within reach, there is space on the conveyor belt so what do you do?
 
 *Start putting your things on anyway leaving a small space between your things and person's ahead of you.

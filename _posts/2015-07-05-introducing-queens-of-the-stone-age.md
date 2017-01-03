@@ -10,7 +10,7 @@ tags:
 
 Rather than talking about Apple Music directly, I thought it would be a good idea to pick out one of the playlists I've been recommended. It's titled 
 An Intro to Queens of the Stone Age but it's missing so much of their really good early stuff. I think it's likely that it was curated by Josh Homme as it's mostly made up of newer music and either he's sick of the early stuff or he thinks the latest stuff is better. Either way they've been around nearly 20 years! Here's their playlist. 
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_5597f09be4b00d130d57d00d_1436020891701__img.png_) 
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_5597f09be4b00d130d57d00d_1436020891701__img.png) 
 *Feel Good Hit of the Summer (Rated R)
  
 *Sick, Sick, Sick (Era Vulgaris)
@@ -38,7 +38,7 @@ While I'm not an expert on the band, I did follow their early career and everyon
 To keep it fair, I'll be choosing 10 tracks. I tend to favour some of their catchier songs but also some of the more instrumental ones. It's probably not surprising to those of you who listen to albums in the order they were compiled but some songs I've kept together because they just belong together. Here it is... 
 ##My Intro to Queens of the Stone Age
  
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_5597f0ade4b00d130d57d04b_1436020910073__img.png_) 
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_5597f0ade4b00d130d57d04b_1436020910073__img.png) 
 *If Only (Queens of the Stone Age)
  
 *Monsters In The Parasol (Rated R)

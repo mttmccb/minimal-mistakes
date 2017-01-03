@@ -29,4 +29,4 @@ Factor in the speed of the bike, you won't hit the same speeds you'll get on a l
 There's a good chance you'll have to make some compromises when you choose the bike for you. For me it was a 
 [Dahon Speed P8](http://dahon.com/mainnav/folding-bikes/single-view/bike/speed_p8-1.html). At the time I was cycling about 20 minutes either side of my train journey, I was able to manage with 1 (and sometimes 2) pannier bags attached and it tooks about 30 seconds to fold it down or up. 
 I'd probably try a smaller bike in future as the the size of the bike when it's folded was a little bigger than I'd have liked but it was a very comfortable ride and very manouverable. 
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_550ddf21e4b079aa9847f007_1426972455677_image.jpg_)
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_550ddf21e4b079aa9847f007_1426972455677_image.jpg)

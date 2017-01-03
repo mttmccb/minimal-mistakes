@@ -54,7 +54,7 @@ ExecuteStoreQuery
 
 I'd recommend you have a look at how to do things with 
 SqlDataReader as some of the concepts are similar, the main one being you're dealing with a stream of data so order is important. 
-![Well, I don't want Fop, goddammit. I'm a Dapper Dan man](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_55468c33e4b0a1a9a9ffdf0e_1430686796013__img.gif_) Well, I don't want Fop, goddammit. I'm a Dapper Dan man 
+![Well, I don't want Fop, goddammit. I'm a Dapper Dan man](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_55468c33e4b0a1a9a9ffdf0e_1430686796013__img.gif) Well, I don't want Fop, goddammit. I'm a Dapper Dan man 
 ##Why use Dapper?
  
 Apart from the performance? Well, it's been well tested by 

@@ -8,7 +8,7 @@ tags:
 ---
 
 It was a bit of a light month for movie watching. 
-![It's as bad as it looks!](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_54f60c46e4b0ec0675dcd298_1425411144516_left_behind_cage_poster.jpg_) It's as bad as it looks! 
+![It's as bad as it looks!](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_54f60c46e4b0ec0675dcd298_1425411144516_left_behind_cage_poster.jpg) It's as bad as it looks! 
 ##Grown-up Movies (2)
 
 
@@ -21,7 +21,7 @@ I usually like Luc Besson movies, this one was stretching it a bit far, a lot li
 
 
 I was in the mood for a Nicolas Cage movie and this seemed like a fun one. It entertained but I honest can't remember any of the details of it! 
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_54f60ca9e4b0ff3782c93398_1425411253901__img.jpg_) 
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_54f60ca9e4b0ff3782c93398_1425411253901__img.jpg) 
 ##Kids Movies (2)
  
 ###Tangled (2010)

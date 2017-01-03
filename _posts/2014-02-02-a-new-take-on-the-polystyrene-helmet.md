@@ -1,8 +1,7 @@
 ---
 title: A new take on the polystyrene helmet
-categories:
-- Long
 tags:
+- Long
 - Cycling
 - safety
 ---

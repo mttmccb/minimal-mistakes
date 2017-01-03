@@ -17,7 +17,7 @@ private static int ReturnOneNumber(string number) { int numberAsInt = int.Parse(
 The section that handles the checking of the negative number could be clearer, so lets make it so. First highlight that section of code, then press 
 **Ctrl+R, M**
  and you'll get a dialog box to give it a name. 
-![](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_55453081e4b03d21cf467e23_1430597762287__img.png_) 
+![](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_55453081e4b03d21cf467e23_1430597762287__img.png) 
 And then the resulting code will be look something like this.
 
 private static int ReturnOneNumber(string number) { int numberAsInt = int.Parse(number); HandleNegatives(numberAsInt); return numberAsInt; } private static void HandleNegatives(int numberAsInt) { if (numberAsInt < 0) throw new Exception("negatives not allowed"); }

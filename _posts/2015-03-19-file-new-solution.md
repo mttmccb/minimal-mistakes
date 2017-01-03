@@ -23,7 +23,7 @@ My question was a little cheeky, "Why bootstrap?". I cry a little each time I ha
 Choice is the important thing here, but it's at the expense of a little bit of lost productivity if I don't want to use bootstrap. I'm not sure there's a easy to solution to this part so we'll leave this for another day. What this lead onto was options for templating projects.
 
 But it's not just the front end I wanted, ideally I want a multi-project template which would include a database project, a test project, maybe a business layer or data access layer. It would likely be quite large. 
-![Source: Flickr](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_5509e905e4b0a5b9540a7cb4_1426712840405__img.jpg_) Source: Flickr 
+![Source: Flickr](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_5509e905e4b0a5b9540a7cb4_1426712840405__img.jpg) Source: Flickr 
 ##Options
 
 

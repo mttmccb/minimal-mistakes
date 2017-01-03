@@ -8,7 +8,7 @@ tags:
 - Stored Procedure
 ---
 
-![Source: BizarreBytes](/squarespace_images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_55203d7ae4b0f9cd71b4e2c5_1428176251127__img.jpg_) Source: BizarreBytes 
+![Source: BizarreBytes](/images/static_52001c0be4b09bc7c9f838c9_52224ed3e4b0ba9919a3e0e1_55203d7ae4b0f9cd71b4e2c5_1428176251127__img.jpg) Source: BizarreBytes 
 So you need to pass multiple values to a stored procedure? Well you don't have too many great options but 
 [Table-Valued Parameters](https://msdn.microsoft.com/en-us/library/bb510489.aspx) (TVPs) are a good way of doing it. 
 ##Why send a table anyway?
