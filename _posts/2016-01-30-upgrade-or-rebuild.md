@@ -2,6 +2,8 @@
 title: Upgrade or Rebuild
 tags:
 - projects
+redirect_from:
+- /blog/2016/upgrade-or-rebuild
 ---
 
 {% include base_path %}

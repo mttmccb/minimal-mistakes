@@ -6,6 +6,8 @@ tags:
 - Shortcut
 - Productivity
 - Refactoring
+redirect_from:
+- /blog/2015/visual-studio-2013-rename-f2
 ---
 
 Although I've been doing a lot of refactoring with 
