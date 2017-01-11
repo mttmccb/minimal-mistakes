@@ -3,6 +3,8 @@ title: Eurosong Generator
 tags:
 - Short
 - music
+redirect_from:
+- /blog/2015/eurosong-generator
 ---
 
 I'm not a fan of Eurovision but I quite like this [Eurosong Generator](http://games.usvsth3m.com/eurosong/), I got a random song about peace with a picture of nuclear bomb going off... 
