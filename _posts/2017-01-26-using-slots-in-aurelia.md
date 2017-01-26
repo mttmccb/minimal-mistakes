@@ -1,6 +1,6 @@
 ---
 title: "Using Slots in Aurelia"
-excerpt: ""
+excerpt: "A western themed take on slots, a Shadow DOM feature"
 tags:
   - aurelia
   - shadow-dom
