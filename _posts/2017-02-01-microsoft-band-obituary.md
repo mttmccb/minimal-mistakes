@@ -36,9 +36,7 @@ Then there were various kinds of notifications (calls, message, twitter, calenda
 
 I've been speaking in the past tense but I still have a Microsoft Band 2 after getting it replaced under warranty last month. This month my warranty ran out, just as well they gave me a brand new one this time instead of a refurbished and inevitably faulty one.
 
-I'm sure like [Scott Hanselman](http://www.hanselman.com/) I'll be trying to find some creative solutions when it starts to fall apart. 
-
-{% twitter https://twitter.com/shanselman/status/811414087158509570 %}
+I'm sure like [Scott Hanselman](http://www.hanselman.com/) I'll be trying to find some [creative solutions](https://twitter.com/shanselman/status/811414087158509570) when it starts to fall apart. 
 
 Of course I won't be replacing it with a Microsoft band, unless they do something new. Sometime this year I'll be in the market for a device with similar capabilities but reliability will high on the wish list.
 
