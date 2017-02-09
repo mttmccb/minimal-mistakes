@@ -23,7 +23,7 @@ export async function configure(aurelia) {
     instance.i18next.use(Backend);
 
     return instance.setup({
-      backend: { 
+      backend: {
         loadPath: './locales/{{lng}}/{{ns}}.json',
       },
       lng : 'cy',
@@ -59,6 +59,7 @@ function getLanguage(){
 But this didn't feel like a very good way to do it, so I [opened an issue](https://github.com/aurelia/i18n/issues/148) on the aurelia i18n repo as I couldn't find an obvious to do what I was looking for.
 
 ## Enter i18next-browser-languagedetector
+
 [zewa666](https://github.com/zewa666) kindly pointed out that i18next has an [extensive plugin ecosystem](http://i18next.com/docs/ecosystem/), plugins are great, it's quickly becoming a feature I look for when selecting a library or tool.
 
 Getting browser detection setup is ridiculously simple. Firstly, you need to add it as a dependency to your project, I use npm so this will do it for me:
@@ -85,7 +86,7 @@ aurelia-i18n then uses a `setup` rather than `init` to pass in the options, thes
 
 ```javascript
 var options = {
-  backend: { 
+  backend: {
     loadPath: './locales/{{lng}}/{{ns}}.json',
   },
   lng : 'cy',
@@ -126,7 +127,7 @@ export async function configure(aurelia) {
     instance.i18next
       .use(Backend)
       .use(LngDetector);
-        
+
     return instance.setup({
       backend: {
         loadPath: './locales/{{lng}}/{{ns}}.json',
@@ -150,6 +151,7 @@ export async function configure(aurelia) {
 ```
 
 ## Slight aside
+
 While I wasn't expecting my first effort to write a language detection function to be perfect I wasn't far off, here's how `i18n-browser-languagedetector` does it. There's some better error checking and they get a standard interface as they're using different 'detectors'.
 
 It's pretty clear if I continued I'd have reinventing the wheel and it might have been a bit oval.
